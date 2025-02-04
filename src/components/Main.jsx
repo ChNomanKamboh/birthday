@@ -11,7 +11,7 @@ function Main() {
     >
       {/* Button to open popup */}
       <button
-        className="border-white border-2 px-5 py-10 rounded-full text-white bg-pink-400/50 hover:bg-pink-300/70 transition fixed z-10 bottom-4 right-6"
+        className="border-white border-2 px-5 py-10 rounded-full text-white bg-pink-400/50 hover:bg-pink-300/70 transition fixed z-10 bottom-8 right-6"
         onClick={() => setIsOpen(true)}
       >
         Click me!
